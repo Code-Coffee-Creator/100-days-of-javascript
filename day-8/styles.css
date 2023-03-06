@@ -98,7 +98,7 @@ img {
   border-radius: 0 0 5px 5px;
 }
 
-/* ------------ form section -------------- */
+/* ---------- FORM SECTION ---------- */
 main h1 {
   display: block;
   font-size: 3.5rem;
@@ -182,7 +182,7 @@ nav .slide {
   transform: translateX(0);
 }
 
-/* ------------ FORM STYLES ----------- */
+/* ------------ FORM STYLES ------------ */
 section .content {
   margin: 3rem auto;
   text-align: center;
@@ -345,7 +345,7 @@ button.clear:hover {
   background-color: orangered;
 }
 
-/* --------------- MEDIA QUERIES -------------- */
+/* ------------- MEDIA QUERIES -------------- */
 @media screen and (max-width: 750px) {
   .main-container {
     display: flex;
